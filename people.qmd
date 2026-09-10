@@ -65,7 +65,7 @@ format:
     link-external-newwindow: true
 ---
 
-![part of the HidrAmazônia team in Ducke during a workshop on TROLL.](files/images/poeple.png){#fig-poeple}
+![Part of the HidrAmazônia team in Ducke during a workshop on TROLL.](files/images/poeple.png){#fig-poeple}
 
 ## Team
 

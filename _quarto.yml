@@ -31,14 +31,14 @@ website:
 
     right: 
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/HidrAmazonia/HidrAmazonia.github.io
         target: _blank
   
   page-navigation: true
   
   page-footer: 
     left: "[Sylvain Schmitt](http://www.github.com/sylvainschmitt) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Sylvain Schmitt](https://sylvainschmitt.netlify.app/"
+    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Sylvain Schmitt](https://sylvainschmitt.netlify.app/)"
     right:  
       - icon: github
         href: https://github.com
@@ -53,11 +53,11 @@ website:
   
   reader-mode: false
 
-  repo-url: https://github.com/
+  repo-url: https://github.com/HidrAmazonia/HidrAmazonia.github.io
   
   open-graph: true
   
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
+  site-url: "https://hidramazonia.github.io/"
   
 bibliography: references.bib
 
@@ -74,6 +74,6 @@ format:
     link-external-icon: false
     link-external-newwindow: true
     email-obfuscation: javascript
-    link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
+    link-external-filter: '^(?:http:|https:)\/\/hidramazonia\.github\.io\/custom'
     include-in-header: "files/includes/_academic.qmd"
 

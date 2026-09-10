@@ -46,8 +46,8 @@ HidrAmazônia combines long-term forest and hydrological monitoring, ecophysiolo
 
 ## Consortium
 
-- [Forests and Societies](https://ur-forets-societes.cirad.fr/en) 🇫🇷 (Co-lead)
-- [National Institute of Amazonian Research](https://www.gov.br/inpa/pt-br) 🇧🇷 (Co-lead)
+- [Forests and Societies](https://ur-forets-societes.cirad.fr/en) 🇫🇷
+- [National Institute of Amazonian Research](https://www.gov.br/inpa/pt-br) 🇧🇷
 - [Ecology of the Forest of French Guiana](https://umr-ecofog.cirad.fr/en/) 🇬🇫
 - [AMAP Lab](https://amaplab.fr/en/index.php) 🇫🇷
 - [Center for Research on Biodiversity and Environment](https://crbe.cnrs.fr/en/) 🇫🇷

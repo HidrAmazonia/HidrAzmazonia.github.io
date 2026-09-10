@@ -12,12 +12,12 @@ The Amazon Basin is a key regulator of global carbon, nutrient, and water cycles
 
 ## Objectives
 
-HidrAmazônia aims to determine how Amazonian forests respond to increasing droughts and floods under a changing climate, by explicitly integrating groundwater dynamics and plant functional traits into spatially explicit forest models. The project leverages two long-term "super-sites" — the **Ducke Reserve** (near Manaus, Brazil) and the **Paracou research station** (near Kourou, French Guiana) — to:
+HidrAmazônia aims to determine how Amazonian forests respond to increasing droughts and floods under a changing climate, by explicitly integrating groundwater dynamics and plant functional traits into spatially explicit forest models. The project leverages two long-term "super-sites" — the [**Ducke Reserve**](https://ppbio.inpa.gov.br/en/Sites/RFAD) (near Manaus, Brazil) and the [**Paracou research station**](https://paracou.cirad.fr/) (near Kourou, French Guiana) — to:
 
-1. Quantify the role of shallow water tables in buffering or amplifying forest vulnerability to hydrological extremes.
-2. Identify above- and belowground functional traits (especially root and hydraulic traits) that control tree tolerance to drought and flooding.
-3. Assess how survival and recruitment of young trees under climate extremes shape long-term forest composition and diversity.
-4. Project forest structure, composition, and functioning under alternative climate and land-use scenarios, by improving water table representation in the **TROLL** individual-based forest model.
+1.  Quantify the role of shallow water tables in buffering or amplifying forest vulnerability to hydrological extremes.
+2.  Identify above- and belowground functional traits (especially root and hydraulic traits) that control tree tolerance to drought and flooding.
+3.  Assess how survival and recruitment of young trees under climate extremes shape long-term forest composition and diversity.
+4.  Project forest structure, composition, and functioning under alternative climate and land-use scenarios, by improving water table representation in the [**TROLL**](https://gmd.copernicus.org/articles/18/5143/2025/) individual-based forest model.
 
 ## Central Hypothesis
 
@@ -32,6 +32,8 @@ The project is structured around one coordination work package and three researc
 - **WP2 — Characterising ecophysiological processes** *(L. Lugli, C. Salmon & S. Coste)*
 - **WP3 — Modelling forest trajectories** *(I. Maréchaux & I. Sampaio)*
 
+> Have a look to the team members at  [Team](people.qmd) .
+
 ## Expected Outcomes
 
 - Quantified limits of groundwater's buffering capacity under extreme climate scenarios.
@@ -39,16 +41,19 @@ The project is structured around one coordination work package and three researc
 - Projections of forest composition, diversity, and ecosystem functioning under climate and land-use change.
 - Unprecedented understory tree dynamics data for French Guiana, comparable with existing Manaus data.
 - Open-access functional trait databases, including a novel flood-tolerance trait database.
-- An enhanced, open-source version of the TROLL model incorporating groundwater and flooding processes.
+- An enhanced, open-source version of the [**TROLL**](https://gmd.copernicus.org/articles/18/5143/2025/) model incorporating groundwater and flooding processes.
 
 ## Partnership
 
 A French–Brazilian consortium co-led by **Sylvain Schmitt** (CIRAD) and **Flávia Costa** (INPA), bringing together:
 
-- **CIRAD** — Forests & Societies (F&S) and Ecology of the Forest of French Guiana (EcoFoG)
-- **INRAE** — Botany and modelling of plant architecture and vegetation (AMAP)
-- **CNRS** — Center for Research on Biodiversity and Environment (CRBE)
-- **INPA** — National Institute of Amazonian Research, Brazil
-- **UFAM** — Federal University of Amazonas, Brazil
+- **Forests & Societies**, CIRAD, France 🇫🇷
+- **INPA** — National Institute of Amazonian Research, Brazil 🇧🇷
+- **EcoFoG** — Ecology of the Forest of French Guiana, CIRAD, APT, UG, INRAE, French Guiana 🇬🇫
+- **AMAP** — Botany and modelling of plant architecture and vegetation, INRAE, IRD, UM 🇫🇷
+- **CRBE** — Center for Research on Biodiversity and Environment, CNRS, France 🇫🇷
+- **UFAM** — Federal University of Amazonas, Brazil 🇧🇷
+
+> Have a look to the team members at  [Team](people.qmd) .
 
 {{< include /files/includes/_socialshare.qmd >}}
